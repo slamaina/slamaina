@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slamaina
 - 👀 I’m interested in learning to code.
-- 🏫 I'm in college for computer programming.
+- 🏫 I'm a Computer Programming student at Algonquin College.
 - 🌱 I’m currently learning Java, COBOL, mySQL, Oracle, Linux, Bash Scripts, HTML, CSS, JavaScript, PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me slamaina@yahoo.com
